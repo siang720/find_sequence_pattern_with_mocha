@@ -39,5 +39,3 @@ describe("solution test", function() {
     );
   });
 });
-
-console.log(solution("1 3 6"));
